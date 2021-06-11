@@ -98,7 +98,7 @@ body {
 }
 
 .header-img {
-    background-image: url(/images/img-cover.png);
+    background-image: url(../images/img-cover.png);
 }
 
 .background-img {
@@ -312,7 +312,7 @@ li:nth-child(6)::marker {
 }
 
 .hmoffice-img {
-    background-image: url(/images/office-image.png);
+    background-image: url(../images/office-image.png);
 }
 
 .home-icon {
@@ -349,7 +349,7 @@ li:nth-child(6)::marker {
 }
 
 .solutions-img {
-    background-image: url(/images/img-person-devices.png);
+    background-image: url(../images/img-person-devices.png);
     /* position: absolute; */
     background-repeat: no-repeat;
     background-size: contain;
@@ -485,7 +485,7 @@ li:nth-child(6)::marker {
 }
 
 .app-tracker-img {
-    background-image: url(/images/blue-rectangle.png);
+    background-image: url(../images/blue-rectangle.png);
     width: 403px;
     height: 605px;
     background-size: 100% 100%;
@@ -663,7 +663,7 @@ span.active-spn::before {
 **  - Staff Solutions Section - 
 */
 .staff-solutions-img {
-    background-image: url(/images/staff-sol-blue-rect.png);
+    background-image: url(../images/staff-sol-blue-rect.png);
     margin-top: 5px;
 }
 
