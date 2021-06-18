@@ -1009,5 +1009,8 @@ hr {
         margin-top: 32px;
     }
 
-
+    /** - Services Description - **/
+    .info-container {
+        flex-wrap: wrap;
+    }
 }
