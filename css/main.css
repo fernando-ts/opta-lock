@@ -967,6 +967,11 @@ hr {
         line-height: 25px;
     }
 
+    .header-info button {
+        float: none;
+        margin-left: -14px;
+    }
+
     .header-img {
         width: 400px;
         height: 360px;
@@ -978,12 +983,31 @@ hr {
         margin: 73px 0 0 56px;
     }
 
-    .header-more-info-btn {
-        width: 327px;
-        height: 56px;
-        font-size: 16px;
+    .info-btn {
+        width: 327px !important;
+        height: 56px !important;
+        font-size: 16px !important;
     }
 
 
-    
+    /** - Banner 1 Section - **/
+    .banner-container {
+        height: 21.5rem;
+    }
+
+    .banner-container img {
+        margin: 75px 0 27px 0;
+    }
+
+    .banner-container h4 {
+        width: 298px;
+        font-size: 17px;
+        line-height: 27px;
+    }
+
+    .banner-container button {
+        margin-top: 32px;
+    }
+
+
 }
