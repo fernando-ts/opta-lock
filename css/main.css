@@ -944,3 +944,46 @@ hr {
     text-decoration: none;
     margin-left: 16px;
 }
+
+
+/* 
+**  - Responsive Styleing - 
+*/
+@media screen and (max-width: 480px) {
+    /** - Header section - **/
+    .header-container {
+        height: 595px;
+    }
+    .header-title {
+        width: 147px;
+        font-size: 25px;
+        line-height: 34px;
+    }
+
+    .header-text {
+        width: 142px;
+        margin-bottom: 62px;
+        font-size: 14px;
+        line-height: 25px;
+    }
+
+    .header-img {
+        width: 400px;
+        height: 360px;
+        margin: -41% 0 0 44.5%;
+    }
+
+    .header-img img {
+        width: 12.5rem;
+        margin: 73px 0 0 56px;
+    }
+
+    .header-more-info-btn {
+        width: 327px;
+        height: 56px;
+        font-size: 16px;
+    }
+
+
+    
+}
