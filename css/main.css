@@ -950,6 +950,11 @@ hr {
 **  - Responsive Styleing - 
 */
 @media screen and (max-width: 480px) {
+    /* Temporary style for .navbar-nav section */
+    .navbar-nav {
+        display: none;
+    }
+
     /** - Header section - **/
     .header-container {
         height: 595px;
@@ -1012,5 +1017,28 @@ hr {
     /** - Services Description - **/
     .info-container {
         flex-wrap: wrap;
+    }
+
+    .phone-card {
+        margin-left: -12px;
+    }
+
+    .computer-card {
+        margin-left: 9px;
+    }
+
+    .list-details h1 {
+        font-size: 22px;
+        line-height: 32px;
+    }
+
+    .list-details h5 {
+        font-size: 15px;
+        line-height: 23px;
+    }
+
+    .specs {
+        font-size: 14px;
+        line-height: 21px;
     }
 }
