@@ -352,7 +352,7 @@ li:nth-child(6)::marker {
     background-image: url(../images/img-person-devices.png);
     /* position: absolute; */
     background-repeat: no-repeat;
-    background-size: contain;
+    background-size: 100% 100%;
     width: 552px;
     height: 497px;
     margin: 13% 0 0 -12.5%;
@@ -1081,4 +1081,16 @@ hr {
         height: 26px;
         margin: 27px 0 0 27px;
     }
+
+    /* Banner 2 */
+    .banner-2 {
+        margin-top: 95px;
+    }
+
+    .banner-container h4 {
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+    
 }
