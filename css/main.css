@@ -1092,5 +1092,56 @@ hr {
         line-height: 26px;
     }
 
-    
+    /* Solutions MDM */
+    .solutions-img {
+        width: 400px;
+        height: 361px;
+        margin: 27% 0 0 -96%;
+    }
+
+    .phone-img img {
+        width: 12.5rem;
+        margin: 62px 0 0 253px;
+    }
+
+    .solutions-description {
+        height: 59.3rem;
+        text-align: initial;
+        margin-left: 0;
+    }
+
+    .android-icon-solutions {
+        margin-top: 26%;
+    }
+
+    .android-icon-solutions img {
+        margin-left: 161px;
+        width: 40px;
+    }
+
+    .solutions-title {
+        width: 131px;
+        margin-bottom: 30px;
+        margin-left: 73px;
+        text-align: right;
+        font-size: 20px;
+    }
+
+    .solutions-text {
+        width: 145px;
+        margin-left: 59px;
+        text-align: right;
+        font-size: 14px;
+        line-height: 25px;
+        padding: 0;
+    }
+
+    .solutions-specs li {
+        font-size: 14.5px;
+    }
+
+    .solutions-description button {
+        position: absolute;
+        margin: 40px -124px 0;
+    }
 }
