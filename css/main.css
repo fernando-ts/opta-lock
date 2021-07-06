@@ -1188,4 +1188,21 @@ hr {
   .app-tracker-info h6 {
     margin: 60px 0 24px;
   }
+
+  /* Information Cards-2 */
+  .info-cards2 {
+    padding: 80px 0 85px;
+  }
+  .cards2-container {
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  .pg-cards-2 {
+    text-align: initial;
+  }
+
+  .pg-cards-2 .pagination {
+    left: 26%;
+  }
 }
