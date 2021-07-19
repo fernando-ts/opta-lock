@@ -1205,4 +1205,31 @@ hr {
   .pg-cards-2 .pagination {
     left: 26%;
   }
+
+  /* Success Stories */
+  .title-text-wrapper h2 {
+    font-size: 25px;
+  }
+
+  .title-text-wrapper p {
+    padding: 0 5%;
+    font-size: 14px;
+  }
+
+  .carousel-img-wrapper {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .carousel-card {
+    margin: 0 0 35px 15px;
+  }
+
+  .s-pagination-wrpr {
+    margin: 10px 0 0px;
+  }
+
+  .s-pagination {
+    left: 43%;
+  }
 }
