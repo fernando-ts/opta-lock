@@ -1232,4 +1232,27 @@ hr {
   .s-pagination {
     left: 43%;
   }
+
+  /* Staff-control Description */
+  .mac-img img {
+    width: 500px;
+    height: 316px;
+    margin: 20px 0 0 1px;
+  }
+
+  .solutions-staff-title {
+    padding-left: 0;
+    margin-top: 98px;
+    line-height: 28px;
+  }
+
+  .solutions-staff-specs {
+    margin-top: 146px;
+    width: 273px;
+    margin-left: -68px;
+  }
+
+  #staff-solutions-btn {
+    margin-top: 40px;
+  }
 }
