@@ -1255,4 +1255,38 @@ hr {
   #staff-solutions-btn {
     margin-top: 40px;
   }
+
+  /* Licence Description Section */
+  .licence-section {
+    margin-top: 50px;
+    padding: 75px 0 72px 0;
+  }
+
+  .all-info-container {
+    width: 83%;
+  }
+
+  .all-info-container h2 {
+    font-size: 20px;
+    text-align: initial;
+    margin-bottom: 45px;
+  }
+
+  .toggle-container {
+    justify-content: center;
+    margin-bottom: 9px;
+  }
+
+  #discount {
+    text-align: center;
+  }
+
+  .licence-cards-container {
+    margin-top: 30px;
+    justify-content: center;
+  }
+
+  .licence-pagination {
+    margin: 13% 0 0 9.5%;
+  }
 }
