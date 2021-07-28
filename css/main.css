@@ -939,7 +939,7 @@ hr {
 */
 @media screen and (max-width: 480px) {
   /* Temporary style for .navbar-nav section */
-  .navbar-nav {
+  .navbar-nav-top {
     display: none;
   }
 
@@ -1301,5 +1301,45 @@ hr {
 
   .contact-form input {
     width: 327px;
+  }
+
+  /*Footer Section */
+  .footer-section {
+    height: 505px;
+  }
+
+  .footer-logo {
+    margin-bottom: 12px;
+  }
+
+  .navbar-nav-bottom {
+    display: initial;
+    padding-left: 0;
+  }
+
+  .navbar-nav-bottom li {
+    margin: 13px 0 0;
+  }
+
+  #footer-nav-item {
+    margin-right: 0;
+  }
+
+  hr {
+    margin: 26px 0 18px;
+  }
+
+  .footer-container {
+    flex-direction: column-reverse;
+    justify-content: initial;
+  }
+
+  #fb-icon {
+    margin-left: 0;
+  }
+
+  .footer-container p {
+    margin-top: 24px;
+    font-size: 13px;
   }
 }
