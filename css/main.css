@@ -983,6 +983,10 @@ hr {
   }
 
   /** - Banner 1 Section - **/
+  .banner {
+    width: 56vh;
+  }
+
   .banner-container {
     height: 21.5rem;
   }
